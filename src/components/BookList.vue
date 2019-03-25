@@ -18,6 +18,7 @@
                     title: 'All Books',
                     books: [
                     {title: 'Lord of the Rings', author: 'Tolkien'},
+                    {title: 'American Gods', author: 'Neil Gaiman'},
                     {title: 'Lord of the Flies', author: 'William Golding'},
                     {title: 'Lord of the Flies', author: 'William Golding'},
                     ]
